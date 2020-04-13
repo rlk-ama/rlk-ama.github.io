@@ -1,0 +1,129 @@
+#answer,
+#show,
+#hide:target {
+  display: none; 
+}
+
+#hide:target ~ #show,
+#hide:target ~ #answer {
+  display: inherit; 
+}
+#answer {
+  color: #696969;
+}
+
+#answer-h,
+#show-h,
+#hide-h:target {
+  display: none; 
+}
+
+#hide-h:target ~ #show-h,
+#hide-h:target ~ #answer-h {
+  display: inherit; 
+}
+#answer-h {
+  color: #696969;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+a:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.menu {
+  margin-top: 5%;
+}
+
+button {
+  border: none;
+  color: inherit;
+  background: none;
+}
+
+.menu-h {
+  width: 80vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: #D0D0D0;
+  z-index: 1;
+}
+
+ul.menu-l {
+  list-style-type: none;
+  margin-top: 20px;
+}
+ul.menu-l li {
+  margin-bottom: 10px;
+}
+.close {
+  float: right;
+  margin-top: 5px;
+  margin-right: 15px;
+}
+
+.citation {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.image_rene_prou {
+    width: 100%;
+    height: 120px;
+}
+
+.image_rene_prou img {
+    width: 100%;
+    height: 100%;
+}
+
+.out_of_the_cube a {
+  color: inherit;
+  text-decoration: inherit;
+}
+.out_of_the_cube a:hover {
+  color: grey;
+  text-decoration: inherit;
+}
+
+.out_of_the_cube_desc {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.gav {
+  image-orientation: from-image;
+}
+
+.gavriella a {
+  color: inherit;
+  text-decoration: inherit;
+}
+.gavriella a:hover {
+  color: grey;
+  text-decoration: inherit;
+}
+
+.small_v {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.reach_out a {
+  color: inherit;
+  text-decoration: inherit;
+}
+.reach_out a:hover {
+  color: grey;
+  text-decoration: inherit;
+}
+.reach_out {
+  font-weight: bold;
+}
+
