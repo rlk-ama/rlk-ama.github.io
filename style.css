@@ -73,8 +73,11 @@ ul.menu-l li {
   font-size: 1.3rem;
 }
 
+.citation_prou {
+  font-size: 1.3rem;
+}
+
 .image_rene_prou {
-    width: 100%;
     height: 120px;
 }
 
@@ -93,7 +96,6 @@ ul.menu-l li {
 }
 
 .out_of_the_cube_desc {
-  font-weight: bold;
   font-size: 1.2rem;
 }
 
@@ -123,7 +125,8 @@ ul.menu-l li {
   color: grey;
   text-decoration: inherit;
 }
-.reach_out {
-  font-weight: bold;
-}
 
+body {
+  text-align: justify;
+  text-justify: inter-word;
+}
