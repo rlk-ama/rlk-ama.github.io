@@ -95,10 +95,6 @@ ul.menu-l li {
   text-decoration: inherit;
 }
 
-.out_of_the_cube_desc {
-  font-size: 1.2rem;
-}
-
 .gav {
   image-orientation: from-image;
 }
@@ -130,3 +126,13 @@ body {
   text-align: justify;
   text-justify: inter-word;
 }
+
+.rene_prou a {
+  color: inherit;
+  text-decoration: inherit;
+}
+.rene_prou a:hover {
+  color: grey;
+  text-decoration: inherit;
+}
+
