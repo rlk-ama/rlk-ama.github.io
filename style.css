@@ -136,3 +136,6 @@ body {
   text-decoration: inherit;
 }
 
+.force_bottom {
+  margin-bottom: 15px;
+}
