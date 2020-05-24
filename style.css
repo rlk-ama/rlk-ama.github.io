@@ -1,3 +1,31 @@
+#answer-ootc,
+#show-ootc,
+#hide-ootc:target {
+  display: none; 
+}
+
+#hide-ootc:target ~ #show-ootc,
+#hide-ootc:target ~ #answer-ootc {
+  display: inherit; 
+}
+#answer-ootc {
+  color: #696969;
+}
+
+#answer-ootc-h,
+#show-ootc-h,
+#hide-ootc-h:target {
+  display: none; 
+}
+
+#hide-ootc-h:target ~ #show-ootc-h,
+#hide-ootc-h:target ~ #answer-ootc-h {
+  display: inherit; 
+}
+#answer-ootc-h {
+  color: #696969;
+}
+
 #answer,
 #show,
 #hide:target {
@@ -139,3 +167,13 @@ body {
 .force_bottom {
   margin-bottom: 15px;
 }
+
+.artist-club a {
+  color: inherit;
+  text-decoration: inherit;
+}
+.artist-club a:hover {
+  color: grey;
+  text-decoration: inherit;
+}
+
