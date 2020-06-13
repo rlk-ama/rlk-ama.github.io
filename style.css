@@ -176,4 +176,10 @@ body {
   color: grey;
   text-decoration: inherit;
 }
-
+.card {
+  text-align: left;
+}
+.card-header {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
