@@ -212,6 +212,7 @@ body {
   color: inherit;
   text-decoration: inherit;
   font-size: 1.3rem;
+  font-weight: bold;
 }
 .sub a:hover {
   color: grey;
