@@ -184,3 +184,38 @@ body {
   font-size: 1.3rem;
   background-color: #FEDD00;
 }
+
+.sub td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.sub table {
+  table-layout: fixed;
+}
+
+.sub table thead th {
+  vertical-align: top;
+  font-size: 1.3rem;
+  text-align: center;
+}
+.sub table thead th {
+  vertical-align: top;
+  font-size: 1.3rem;
+}
+
+.out_of_the_cube {
+  display: block;
+}
+
+.sub a {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: 1.3rem;
+}
+.sub a:hover {
+  color: grey;
+  text-decoration: inherit;
+}
+
+
