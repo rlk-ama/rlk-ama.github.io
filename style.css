@@ -101,6 +101,11 @@ ul.menu-l li {
   font-size: 1.3rem;
 }
 
+.citation2 {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
 .citation_prou {
   font-size: 1.3rem;
 }
@@ -219,4 +224,36 @@ body {
   text-decoration: inherit;
 }
 
+.consultancy ul {
+  list-style-type: none;
+}
 
+.consultancy .fa {
+  color: #93A9D1;
+}
+
+.book {
+  color: #00AB84;
+}
+
+.side img {
+    max-width: 100%;
+    height: auto;
+}
+
+.side {
+    width: 120px;
+    height: 120px;
+    height: auto;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+}
+
+.consultancy ul {
+  margin-top: 3px;
+}
+
+.card-footer {
+  background-color: #93A9D1;
+}
