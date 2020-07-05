@@ -226,6 +226,7 @@ body {
 
 .consultancy ul {
   list-style-type: none;
+  padding-left: 0;
 }
 
 .consultancy .fa {
@@ -255,5 +256,16 @@ body {
 }
 
 .card-footer {
-  background-color: #93A9D1;
+  background-color: #FEDD00;
 }
+
+.gav-consultancy {
+  width: 50%;
+  height: auto;
+}
+
+.full-w {
+  width: 100%;
+  height: auto;
+}
+
