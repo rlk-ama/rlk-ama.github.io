@@ -224,6 +224,16 @@ body {
   text-decoration: inherit;
 }
 
+.sub .sample a {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: 1rem;
+}
+.sub .sample a:hover {
+  color: grey;
+  text-decoration: inherit;
+}
+
 .consultancy ul {
   list-style-type: none;
   padding-left: 0;
