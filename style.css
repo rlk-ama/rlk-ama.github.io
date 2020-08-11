@@ -279,3 +279,11 @@ body {
   height: auto;
 }
 
+.title-color {
+  color: #02645e;
+}
+
+.citation-big {
+  font-weight: bold;
+  font-size: 2rem;
+}
