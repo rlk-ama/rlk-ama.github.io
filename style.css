@@ -141,11 +141,6 @@ ul.menu-l li {
   text-decoration: inherit;
 }
 
-.small_v {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
 .reach_out a {
   color: inherit;
   text-decoration: inherit;
@@ -155,10 +150,6 @@ ul.menu-l li {
   text-decoration: inherit;
 }
 
-body {
-  text-align: justify;
-  text-justify: inter-word;
-}
 
 .rene_prou a {
   color: inherit;
@@ -284,6 +275,19 @@ body {
 }
 
 .citation-big {
+  text-align: left;
   font-weight: bold;
   font-size: 2rem;
 }
+
+.small_v {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+body {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+
