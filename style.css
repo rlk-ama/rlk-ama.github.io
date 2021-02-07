@@ -119,15 +119,6 @@ ul.menu-l li {
     height: 100%;
 }
 
-.out_of_the_cube a {
-  color: inherit;
-  text-decoration: inherit;
-}
-.out_of_the_cube a:hover {
-  color: grey;
-  text-decoration: inherit;
-}
-
 .gav {
   image-orientation: from-image;
 }
@@ -200,9 +191,6 @@ ul.menu-l li {
   font-size: 1.3rem;
 }
 
-.out_of_the_cube {
-  display: block;
-}
 
 .sub a {
   color: inherit;
@@ -225,14 +213,6 @@ ul.menu-l li {
   text-decoration: inherit;
 }
 
-.consultancy ul {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-.consultancy .fa {
-  color: #93A9D1;
-}
 
 .book {
   color: #00AB84;
@@ -252,18 +232,11 @@ ul.menu-l li {
     padding: 3px;
 }
 
-.consultancy ul {
-  margin-top: 3px;
-}
 
 .card-footer {
   background-color: #FEDD00;
 }
 
-.gav-consultancy {
-  width: 50%;
-  height: auto;
-}
 
 .full-w {
   width: 100%;
